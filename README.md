@@ -5,6 +5,7 @@
 <img width="1747" height="1272" alt="Screenshot 2026-03-11 193626" src="https://github.com/user-attachments/assets/be60e636-85f2-4232-a0d0-93131b14eb8c" />
 
 
+[![View Demo Site](https://img.shields.io/badge/View-Demo_Site-FF6F00?style=for-the-badge&logo=github-pages&logoColor=white)](https://promptclickrun.github.io/power-agents-blueprint/)
 [![Install in Copilot CLI](https://img.shields.io/badge/Copilot_CLI-Install_Plugin-2088FF?style=for-the-badge&logo=github&logoColor=white)](#-copilot-cli-quick-install)
 [![Install in Claude Code](https://img.shields.io/badge/Claude_Code-Install_Plugin-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#-claude-code-quick-install)
 [![Open in VS Code](https://img.shields.io/badge/Open_in-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscode.dev/github/promptclickrun/power-agents-blueprint)
