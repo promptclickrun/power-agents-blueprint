@@ -1,0 +1,30 @@
+{
+  "name": "power-agents-blueprint",
+  "description": "Analyzes Power Platform, Copilot Studio, and Azure AI Foundry solutions and generates interactive HTML architecture dashboards with Mermaid diagrams, ERDs, data flow analysis, and shareable PageDrop links.",
+  "version": "1.0.0",
+  "author": {
+    "name": "promptclickrun",
+    "url": "https://github.com/promptclickrun"
+  },
+  "homepage": "https://github.com/promptclickrun/power-agents-blueprint",
+  "repository": "https://github.com/promptclickrun/power-agents-blueprint",
+  "license": "MIT",
+  "keywords": [
+    "power-platform",
+    "copilot-studio",
+    "architecture",
+    "diagrams",
+    "mermaid",
+    "erd",
+    "html-dashboard",
+    "azure",
+    "dataverse"
+  ],
+  "agents": [
+    "./agents/power-copilot-architect.agent.md"
+  ],
+  "commands": [
+    "./skills/architecture-html-dashboard/",
+    "./skills/pagedrop-upload/"
+  ]
+}

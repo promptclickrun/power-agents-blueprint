@@ -1,0 +1,33 @@
+{
+  "name": "power-agents-blueprint-marketplace",
+  "owner": {
+    "name": "promptclickrun",
+    "email": "promptclickrun@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Architecture analysis and documentation tools for Power Platform, Copilot Studio, and Azure AI Foundry solutions.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "power-agents-blueprint",
+      "description": "Analyzes Power Platform and Copilot Studio solutions, generates interactive HTML architecture dashboards with Mermaid diagrams, ERDs, data flows, and optional shareable PageDrop links.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "promptclickrun",
+        "url": "https://github.com/promptclickrun"
+      },
+      "license": "MIT",
+      "keywords": [
+        "power-platform",
+        "copilot-studio",
+        "architecture",
+        "mermaid",
+        "erd",
+        "html-dashboard"
+      ],
+      "category": "architecture"
+    }
+  ]
+}
