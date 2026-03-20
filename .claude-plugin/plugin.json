@@ -1,7 +1,7 @@
 {
   "name": "power-agents-blueprint",
   "description": "Analyzes Power Platform, Copilot Studio, and Azure AI Foundry solutions and generates interactive HTML architecture dashboards with SVG diagrams, ERDs, data flow analysis, and shareable PageDrop links.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "author": {
     "name": "promptclickrun",
     "url": "https://github.com/promptclickrun"
